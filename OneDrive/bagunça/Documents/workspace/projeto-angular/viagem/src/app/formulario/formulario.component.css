@@ -1,0 +1,28 @@
+.principal {
+ width: 1280px;
+ margin: auto;
+ text-align: center;
+}
+.conteudo{
+padding: 12px;
+margin-top: 12px;
+border: 1px solid #ccc;
+border-radius: 8px;
+display: inline-block;
+}
+
+.titulo {
+    border-bottom: 1px solid black;
+    padding: 8px;
+    margin-bottom: 12px;
+    background-color: #eee;
+    border-radius: 8px 8px 0 0;
+    
+}
+
+li{
+    display: block;
+    float: right;
+    width: 15%;
+}
+
